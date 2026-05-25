@@ -1,0 +1,4 @@
+Prefix sums involves preprocessing an array to create a new array where each element at i is the sum of elements from the start upto i.
+This allows for efficient sum queries on sub arrays
+
+Use this pattern when you want to perform multiple sum queries on a subarray or when you want cumulative sums

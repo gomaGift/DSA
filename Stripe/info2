@@ -1,0 +1,5 @@
+txn100,visa,2025-09-01,3000,unauthorized
+txn200,mastercard,2025-09-01,2500
+txn300,amex,2025-09-02,4000,duplicate_charge
+txn400,visa,2025-09-03,3500,unauthorized,extra_field
+txn500,mastercard,2025-09-03,2800,duplicate_charge

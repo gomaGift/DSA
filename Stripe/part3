@@ -1,0 +1,4 @@
+txn200,mastercard,2025-09-05,2500,withdrawn
+txn300,visa,2025-09-03,4000,unauthorized
+txn100,visa,2025-09-01,3000,unauthorized
+txn200,mastercard,2025-09-01,2500,duplicate_charge
