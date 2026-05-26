@@ -26,7 +26,6 @@ Constraints:
     -10^9 <= nums[i] <= 10^9
     nums is a non-decreasing array.
     -10^9 <= target <= 10^9
-
 """
 def search_left(arr: list[int], target: int) -> int:
     start = -1
